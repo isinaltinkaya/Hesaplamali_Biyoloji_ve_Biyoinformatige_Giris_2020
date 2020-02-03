@@ -1,2 +1,3 @@
 # Hesaplamalı Biyoloji ve Biyoinformatiğe Giriş
-05.02.2020 tarihinde düzenlenen 5. Hacettepe Biyoloji ve Uygulamaları Kongresi dahilindeki "Hesaplamalı Biyoloji ve Biyoinformatiğe Giriş" isimli çalıştayına ait ders notları ve verileri içerir.
+05.02.2020 tarihinde Ekoloji Grubu Topluluğu tarafından düzenlenen 5. Hacettepe Biyoloji ve Uygulamaları Kongresi dahilindeki "Hesaplamalı Biyoloji ve Biyoinformatiğe Giriş" isimli çalıştayına ait ders notları ve verileri içerir.
+
