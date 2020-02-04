@@ -1,4 +1,4 @@
-# Hesaplamalı Biyoloki ve Biyoinformatiğe Giriş
+# Hesaplamalı Biyoloji ve Biyoinformatiğe Giriş
 
 # Uygulamalar
 
