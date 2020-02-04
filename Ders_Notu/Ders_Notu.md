@@ -5,11 +5,15 @@
 
 <b>String (karakter dizileri):</b> Sabit veya değişken olabilen bir veya daha fazla karakterden (harfler, sayılar, simgeler) oluşan bir dizidir.
 
-`>>> s = ”string”`
+`>>> s1 = ”string”`
 
-`>>> s=“123”`
+`>>> s2=“123”`
 
-`>>> s =“hesaplamalı biyoloji”`
+`>>> s3 =“hesaplamalı biyoloji”`
+
+`print(s1,s2,s3)`
+
+> string 123 hesaplamalı biyoloji 
 
 <b>Değişken:</b> Değerleri depolamak için ayrılmış bellek konumlarıdır.
 
