@@ -25,8 +25,18 @@ Alternatif olarak Python Jupyter Notebook'u tarayıcınız üzerinden kullanabil
 
 https://jupyter.org/try adresine girilerek <b>Try Classic Notebook</b> seçeneği seçilir.
 
-![alt text](Pictures/try_classic_notebook.png )
+![alt text](Pictures/try_classic_notebook.png)
 
 Açılan sayfanın sol üst kısmından  <b>[File] → [New Notebook] → [Python 3]</b> seçilir.
 
-![alt text](Pictures/new_notebook_from_browser.png )
+![alt text](Pictures/new_notebook_from_browser.png)
+
+## Kodların Çalıştırılması
+
+Yazılan kodlar <b>Run</b> butonuna tıklanarak veya <b> Ctrl + Enter </b> tuşlarına aynı anda basılarak çalıştırılabilir:
+
+![alt text](Pictures/kod_calistir.png)
+
+Çıktı (Output):
+
+![alt text](Pictures/output.png)
