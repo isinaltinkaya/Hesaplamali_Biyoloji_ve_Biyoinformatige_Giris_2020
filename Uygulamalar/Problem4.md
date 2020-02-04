@@ -41,5 +41,3 @@ of the DNA sequence is coding.
 
 ### Problem 4 İçin Veri:
 
-Komplementer DNA
-ACTGATCGATTACGTATAGTATTTGCTATCATACATATATATCGATGCGTTCAT
