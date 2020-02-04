@@ -39,7 +39,7 @@ of the DNA sequence is coding.
 
 >
 
-### Problem 3 İçin Veri:
+### Problem 4 İçin Veri:
 
 Komplementer DNA
 ACTGATCGATTACGTATAGTATTTGCTATCATACATATATATCGATGCGTTCAT
