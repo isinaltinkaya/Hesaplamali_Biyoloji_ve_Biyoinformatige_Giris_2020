@@ -1,6 +1,6 @@
 
-
-
+# Hesaplamalı Biyoloji ve Biyoinformatiğe Giriş
+# Uygulamalar
 
 ## Problem 2
 
