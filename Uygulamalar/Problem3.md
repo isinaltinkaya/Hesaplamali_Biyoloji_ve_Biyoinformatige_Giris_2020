@@ -23,7 +23,7 @@ String; `dizi3`'ün tamamlayıcı zincirini içeren DNA dizisi.
 
 Örnek çıktı:
 
-> 
+> TGACTAGCTAATGCATATCATAAACGATAGTATGTATATATAGCTACGCAAGTA
 
 ### Problem 3 İçin Veri:
 
