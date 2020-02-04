@@ -33,7 +33,7 @@ Açılan sayfanın sol üst kısmından  <b>[File] → [New Notebook] → [Pytho
 
 ## Kodların Çalıştırılması
 
-Yazılan kodlar <b>Run</b> butonuna tıklanarak veya <b> Ctrl + Enter </b> tuşlarına aynı anda basılarak çalıştırılabilir:
+Yazılan kodlar <b>Run</b> butonuna tıklayarak veya <b> Ctrl + Enter </b> tuşlarına aynı anda basılarak çalıştırılabilir:
 
 ![alt text](Resimler/kod_calistir.png)
 
