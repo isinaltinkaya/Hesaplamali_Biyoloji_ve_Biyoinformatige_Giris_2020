@@ -1,3 +1,4 @@
+# Hesaplamalı Biyoloji ve Biyoinformatiğe Giriş 
 # Ders Notu
 
 ## Terminoloji
@@ -213,21 +214,24 @@ Burada istediğimiz bir amino asidi saydırabiliriz.
 
 >`0`
 
+### Dosyadan metinleri okuma: open ve read fonksiyonları
 
+`>>> my_file = open("dna.txt")`
 
+`>>> file_contents=my_file.read()`
 
+`>>> print(file_contents)`
 
+1  	`>>> my_file_name = "dna.txt"`
 
+2 		`>>> my_file = open(my_file_name)`
 
+3 		`>>> my_file_contents = my_file.read()`
 
+>`ACTGTACGTGCACTGATC`
 
+1. satırda dna.txt stringi my_file_name değişkeni içerisinde saklanıyor.
 
+2. satırda my_file_name değişkenini open fonksiyonu için bir argüman olarak kullanıyor ve sonucu my_file değişkeni içerisinde saklıyoruz.
 
-
-
-
-
-
-
-
-
+3. satırda my_file değişkenindeki read metodunu çağırıyoruz ve elde edilen stringi my_file_contents değişkeninde saklıyoruz.
