@@ -29,7 +29,7 @@ https://jupyter.org/try adresine girilerek <b>Try Classic Notebook</b> seçeneğ
 
 Açılan sayfanın sol üst kısmından  <b>[File] → [New Notebook] → [Python 3]</b> seçilir.
 
-![alt text](Resimler/new_notebook_from_browser.png)
+![alt text](Resimler/browser_new_notebook.png)
 
 ## Kodların Çalıştırılması
 
