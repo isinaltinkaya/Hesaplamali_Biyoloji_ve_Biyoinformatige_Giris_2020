@@ -9,15 +9,15 @@ https://www.anaconda.com/distribution/#download-section adresi üzerinden <b>Pyt
 
 Windows başlangıç menüsünden <b>[Anaconda3(64 bit)] → [Jupyter Notebook]</b> seçilir. Bu işlem Jupyter'i tarayıcınızın bir sekmesinde açar.
 
-![alt text](Pictures/windows_start_jupyter_notebook.png)
+![alt text](Resimler/windows_start_jupyter_notebook.png)
 
 Açılan sayfanın sağ üst kısmından  <b>[New] → [Python 3]</b> seçilir.
 
-![alt text](Pictures/new_notebook_from_browser.png)
+![alt text](Resimler/new_notebook_from_browser.png)
 
 Jupyter not defteriniz, tarayıcınızın yeni bir sekmesinde açılacaktır:
 
-![alt text](Pictures/new_notebook.png)
+![alt text](Resimler/new_notebook.png)
 
 ## Alternatif yol: Gerekli Programların Tarayıcı Üzerinden Kullanılması
 
@@ -25,18 +25,18 @@ Alternatif olarak Python Jupyter Notebook'u tarayıcınız üzerinden kullanabil
 
 https://jupyter.org/try adresine girilerek <b>Try Classic Notebook</b> seçeneği seçilir.
 
-![alt text](Pictures/try_classic_notebook.png)
+![alt text](Resimler/try_classic_notebook.png)
 
 Açılan sayfanın sol üst kısmından  <b>[File] → [New Notebook] → [Python 3]</b> seçilir.
 
-![alt text](Pictures/new_notebook_from_browser.png)
+![alt text](Resimler/new_notebook_from_browser.png)
 
 ## Kodların Çalıştırılması
 
 Yazılan kodlar <b>Run</b> butonuna tıklanarak veya <b> Ctrl + Enter </b> tuşlarına aynı anda basılarak çalıştırılabilir:
 
-![alt text](Pictures/kod_calistir.png)
+![alt text](Resimler/kod_calistir.png)
 
 Çıktı (Output):
 
-![alt text](Pictures/output.png)
+![alt text](Resimler/output.png)
