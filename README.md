@@ -21,4 +21,6 @@ Jupyter not defteriniz, tarayıcınızın yeni bir sekmesinde açılacaktır:
 
 ## Gerekli Programların Tarayıcı Üzerinden Kullanılması
 
-https://jupyter.org/try adresi
+https://jupyter.org/try adresine girilerek <b>Try Classic Notebook</b> seçeneği seçilir.
+
+![alt text](Pictures/try_classic_notebook.png)
