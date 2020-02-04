@@ -12,9 +12,9 @@ Eksonlar DNA'nın protein kodlayan, intronlar ise kodlamayan kısımlarıdır.
 
 ### Kısım 1: Intron'ları kesip atmak
 
-ATCGATCGATCGATCGACTGACTAGTCATAGCTATGCATGTAGCTACTCGATCGATCGATCGATCGATCGATCGATCGATCGATCATGCTATCATCGATCGATATCGATGCATCGACTACTAT
+> ATCGATCGATCGATCGACTGACTAGTCATAGCTATGCATGTAGCTACTCGATCGATCGATCGATCGATCGATCGATCGATCGATCATGCTATCATCGATCGATATCGATGCATCGACTACTAT
 
-Ekson ve intron bölgelerinden oluşan bir DNA dizisi.
+Ekson ve intron bölgelerinden oluşan bir DNA dizisi verilmiştir.
 
 -İlk ekson dizinin başından 63. karaktere kadar olan kısmı kapsamaktadır.
 
