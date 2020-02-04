@@ -19,7 +19,9 @@ Jupyter not defteriniz, tarayıcınızın yeni bir sekmesinde açılacaktır:
 
 ![alt text](Pictures/new_notebook.png)
 
-## Gerekli Programların Tarayıcı Üzerinden Kullanılması
+## Alternatif yol: Gerekli Programların Tarayıcı Üzerinden Kullanılması
+
+Alternatif olarak Python Jupyter Notebook'u tarayıcınız üzerinden kullanabilirsiniz.
 
 https://jupyter.org/try adresine girilerek <b>Try Classic Notebook</b> seçeneği seçilir.
 
