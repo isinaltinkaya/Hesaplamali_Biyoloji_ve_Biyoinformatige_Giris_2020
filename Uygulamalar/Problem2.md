@@ -28,11 +28,11 @@ Yüzde GC içeriği matematiksel olarak ((G+C)/(A+T+G+C))\*100 şeklinde hesapla
 
 Örnek çıktı:
 
-> AT 58.57142857142858
+> AT içeriği: 58.57142857142858
 
-> GC 41.42857142857143
+> GC içeriği: 41.42857142857143
 
-> Toplam 100.0
+> Toplam: 100.0
 
 ### Problem 2 İçin Veri:
 
