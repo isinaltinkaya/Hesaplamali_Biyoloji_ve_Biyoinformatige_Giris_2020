@@ -22,10 +22,8 @@ DNA dizisi.
 
 ### Problem 5 İçin Veri:
 
-> ACTGATCGATTACGTATAGTAGAATTCTATCATACATATATATCGATGCGTTCAT
-
 EcoRI bir kesim enzimidir. Bu kesim enzimi DNA'yı G\*AATTC motifinin bulunduğu yerden keser. (\* kesim yerini ifade etmektedir.)
 
-> AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC
+> ACTGATCGATTACGTATAGTAGAATTCTATCATACATATATATCGATGCGTTCAT
 
 Verilen DNA dizisi EcoRI enzimi tarafından kesildikten sonra elde edilecek iki parçanın uzunluklarını hesaplayınız.
