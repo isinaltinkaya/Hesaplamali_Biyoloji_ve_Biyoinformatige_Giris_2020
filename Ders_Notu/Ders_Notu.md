@@ -174,7 +174,7 @@ Ya da
 
 >`ATGC`
 
-# Yenisiyle değiştirme: replace fonksiyonu
+### Yenisiyle değiştirme: replace fonksiyonu
 
 `>>> protein = "vlspadktnv"`
 
