@@ -18,7 +18,7 @@ DNA dizisi.
 
 Örnek çıktı:
 
-> Birinci parçanın uzunluğu 1 ve ikinci parçanın uzunluğu 5 olarak hesaplanmıştır.
+> Kesim sonucunda birinci parçanın uzunluğu 1 ve ikinci parçanın uzunluğu 5 olarak hesaplanmıştır.
 
 ### Problem 5 İçin Veri:
 
