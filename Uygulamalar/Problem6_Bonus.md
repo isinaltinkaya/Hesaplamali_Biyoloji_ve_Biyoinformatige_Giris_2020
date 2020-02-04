@@ -4,6 +4,8 @@
 
 ## Problem 6 - Bonus Soru
 
+Pictures/RNA_kodon_tablosu.png
+
 Splicing out introns, part one
 
 
