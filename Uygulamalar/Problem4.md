@@ -4,29 +4,23 @@
 
 ## Problem 4
 
-Splicing out introns, part one
 
 
-Here's a short section of genomic DNA:
-ATCGATCGATCGATCGACTGACTAGTCATAGCTATGCATGTAGCTACTCGATCGATCGA
-TCGATCGATCGATCGATCGATCGATCATGCTATCATCGATCGATATCGATGCATCGACT
-ACTAT
-It comprises two exons and an intron. The first exon runs from the start of the
-sequence to the sixty-third character, and the second exon runs from the ninety-
-first character to the end of the sequence. Write a program that will print just the
-coding regions of the DNA sequence.
+### Problem 4 İçin Veri:
 
+### Kısım 1: Intron'ları kesip atmak
 
-Splicing out introns, part two
+![alt text](../Resimler/exon.png)
 
+ATCGATCGATCGATCGACTGACTAGTCATAGCTATGCATGTAGCTACTCGATCGATCGATCGATCGATCGATCGATCGATCGATCATGCTATCATCGATCGATATCGATGCATCGACTACTAT
 
-Using the data from part one, write a program that will calculate what percentage
-of the DNA sequence is coding.
+Exon ve intron bölgelerinden oluşan bir DNA dizisi.İlk exon dizinin başından 63. karaktere kadar, ikinci exon ise 91. karakterden dizinin sonuna kadar olan kısmı kapsamaktadır
 
+### Kısım 2: Kodlayan DNA yüzdesinin hesaplanması
 
+Birinci kısımda elde edilen veriyi kullanarak, verilen DNA dizisinin yüzde kaçının kodlayan dizi olduğunu hesaplayınız.
 
 #### Örnek Verilen:
-
 
 Örnek veri:
 
@@ -34,10 +28,6 @@ of the DNA sequence is coding.
 
 #### Örnek İstenen:
 
-
 Örnek çıktı:
 
 >
-
-### Problem 4 İçin Veri:
-
