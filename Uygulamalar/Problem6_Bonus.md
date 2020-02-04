@@ -4,7 +4,7 @@
 
 ## Problem 6 - Bonus Soru: Translasyon
 
-../Resimler/RNA_kodon_tablosu.png
+![alt text](../Resimler/RNA_kodon_tablosu.png)
 
 #### Örnek Verilen:
 
