@@ -14,7 +14,7 @@
 
 #### Örnek İstenen:
 
-4 adet sayı: `dizi1` içerisindeki sırasıyla 'A', 'C', 'G' ve 'T' nükleotitlerinin görülme sıklığı değerleri.
+4 adet sayı: `dizi1` içerisinde sırasıyla 'A', 'C', 'G' ve 'T' nükleotitlerinin görülme sıklığı değerleri.
 
 Örneğin; A sayısı/Toplam nükleotit sayısı
 
