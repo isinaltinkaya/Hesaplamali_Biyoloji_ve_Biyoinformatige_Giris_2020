@@ -4,7 +4,7 @@
 
 ## Problem 5
 
-EcoRI bir kesim enzimidir. Bu kesim enzimi DNA'yı G\*AATTC motifinin bulunduğu yerden keser. (\* kesim yerini ifade etmektedir.
+EcoRI bir kesim enzimidir. Bu kesim enzimi DNA'yı G\*AATTC motifinin bulunduğu yerden keser. (\* kesim yerini ifade etmektedir.)
 
 #### Örnek Verilen:
 
