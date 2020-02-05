@@ -25,3 +25,6 @@ Bir protein dizisi, string.
 ### Problem 6 İçin Veri:
 
 > AUGAACGGGGCCAUGAAGGAACGGGGUAACGGGGCCAUGAAGGAACGGGAUGGCGGGGCCAAGGAACGGGAUGGUUAG
+
+Kaynak önerileri:
+http://rsgturkey.com/en/resources/
