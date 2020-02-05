@@ -10,7 +10,7 @@ Eksonlar DNA'nın protein kodlayan, intronlar ise kodlamayan kısımlarıdır.
 
 ### Problem 4 İçin Veri:
 
-### Kısım 1: Intron'ları kesip atmak
+### Kısım 1: İntron'ları kesip atmak
 
 > ATCGATCGATCGATCGACTGACTAGTCATAGCTATGCATGTAGCTACTCGATCGATCGATCGATCGATCGATCGATCGATCGATCATGCTATCATCGATCGATATCGATGCATCGACTACTAT
 
