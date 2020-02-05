@@ -4,6 +4,8 @@
 
 ## Problem 5
 
+EcoRI bir kesim enzimidir. Bu kesim enzimi DNA'yı G\*AATTC motifinin bulunduğu yerden keser. (\* kesim yerini ifade etmektedir.
+
 #### Örnek Verilen:
 
 DNA dizisi.
@@ -21,8 +23,6 @@ DNA dizisi.
 > Kesim sonucunda birinci parçanın uzunluğu 1 ve ikinci parçanın uzunluğu 5 olarak hesaplanmıştır.
 
 ### Problem 5 İçin Veri:
-
-EcoRI bir kesim enzimidir. Bu kesim enzimi DNA'yı G\*AATTC motifinin bulunduğu yerden keser. (\* kesim yerini ifade etmektedir.)
 
 > ACTGATCGATTACGTATAGTAGAATTCTATCATACATATATATCGATGCGTTCAT
 
