@@ -32,7 +32,14 @@
 
 <b>Fonksiyon:</b> Girdi alan, belirli hesaplamalar yapan ve çıktı üreten bir ifade kümesidir.
 
-`FUNCTION SAMPLE`
+```
+def ekrana_yaz( str ):
+   print(str)
+   return
+```
+
+`ekrana_yaz("Merhaba")`
+> Merhaba
 
 Kısa bir DNA dizisini my_dna değişkeni içerisinde saklayalım:
 
